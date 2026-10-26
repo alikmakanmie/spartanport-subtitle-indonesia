@@ -1,0 +1,6 @@
+{
+  "name": "Subtitle Indonesia",
+  "author": "Terjemahan komunitas untuk SpartanPort (dibangun dari mod fan-made CUSA01623 + terjemahan penuh)",
+  "version": "4.1",
+  "description": "Seluruh teks God of War III Remastered dalam bahasa Indonesia (4.1: +nama tempat; total 3.850 dari 4.016 entri — sisanya hanya nama tokoh/senjata, kode arena, placeholder, atau seruan tanpa padanan; lihat CATATAN-v41.md). Mengganti R_LANG_EN.WAD (slot bahasa English): mainkan dengan bahasa English + subtitle ON. Ukuran file persis sama dengan aslinya (456.432 byte) agar diterima loader."
+}
